@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/jai-singh2793">&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/jai-singh2793" target="_blank">&nbsp;&nbsp;
  </p>
 
 
