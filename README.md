@@ -4,7 +4,8 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/jai-singh2793" target="_blank">&nbsp;&nbsp;
+   
+   <a href="https://www.linkedin.com/in/jai-singh2793" target="_blank"><img src="https://imgs.search.brave.com/uGDtHsxME6trYi3Pg1IQoYBs0ZNStLg4fOwcz9gYrwo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" width="25px"></a>&nbsp;&nbsp;
  </p>
 
 
